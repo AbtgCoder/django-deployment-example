@@ -25,7 +25,7 @@ SECRET_KEY = '6p1w3*j8d70lk_e9=847jhd659y=t16&3z%clf6xnki7%4h*t%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['abtgcoder.pythonanywhere.com']
 
 
 # Application definition
